@@ -1,0 +1,39 @@
+magic
+tech scmos
+timestamp 1619621930
+<< polysilicon >>
+rect 341 155 343 206
+rect 393 101 422 103
+rect 381 70 383 94
+<< polycontact >>
+rect 337 202 341 206
+rect 340 151 344 155
+rect 389 100 393 104
+rect 422 100 426 104
+rect 383 90 387 94
+rect 380 66 384 70
+<< metal1 >>
+rect 123 206 128 207
+rect 123 202 337 206
+rect 123 160 128 202
+rect 224 170 361 175
+rect 621 170 750 174
+rect 340 101 344 151
+rect 339 91 344 101
+rect 357 104 361 170
+rect 357 100 389 104
+rect 339 82 343 91
+rect 387 90 397 94
+rect 339 78 397 82
+rect 83 -18 87 24
+rect 380 -18 384 66
+rect 83 -22 386 -18
+use dlatch  dlatch_0
+timestamp 1619620769
+transform 1 0 79 0 1 115
+box -79 -115 251 59
+use dlatch  dlatch_1
+timestamp 1619620769
+transform 1 0 476 0 1 115
+box -79 -115 251 59
+<< end >>

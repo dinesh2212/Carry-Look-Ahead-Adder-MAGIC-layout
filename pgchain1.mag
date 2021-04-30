@@ -1,0 +1,55 @@
+magic
+tech scmos
+timestamp 1618899966
+<< polysilicon >>
+rect 116 -9 118 34
+<< polycontact >>
+rect 112 -9 116 -5
+rect 118 30 122 34
+<< metal1 >>
+rect -24 207 124 211
+rect -24 128 -20 207
+rect -138 124 -87 128
+rect -53 124 -9 128
+rect -113 90 -109 124
+rect -113 86 -23 90
+rect -27 82 -23 86
+rect -13 89 -9 124
+rect -13 85 0 89
+rect -113 78 -41 82
+rect -27 78 0 82
+rect -113 38 -109 78
+rect -45 75 -41 78
+rect -45 71 0 75
+rect -13 64 0 68
+rect 120 65 124 207
+rect -13 38 -9 64
+rect 120 61 138 65
+rect 85 56 106 60
+rect -138 34 -87 38
+rect -53 34 -9 38
+rect -29 -5 -25 34
+rect 102 12 106 56
+rect 124 54 138 58
+rect 124 34 128 54
+rect 183 47 214 51
+rect 122 30 128 34
+rect 102 8 214 12
+rect -29 -9 112 -5
+use inv_W  inv_W_0
+timestamp 1618656596
+transform 1 0 -72 0 1 133
+box -15 -30 19 31
+use inv_W  inv_W_1
+timestamp 1618656596
+transform 1 0 -72 0 1 43
+box -15 -30 19 31
+use xor_2W  xor_2W_0
+timestamp 1618898111
+transform 1 0 34 0 1 111
+box -34 -111 51 89
+use and  and_0
+timestamp 1618746604
+transform 1 0 169 0 1 71
+box -31 -48 16 55
+<< end >>

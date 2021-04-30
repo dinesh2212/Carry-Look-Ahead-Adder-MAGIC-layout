@@ -1,0 +1,20 @@
+magic
+tech scmos
+timestamp 1619597960
+<< metal1 >>
+rect 85 56 136 60
+rect 84 -155 135 -151
+rect 84 -364 135 -360
+use xor_2W  xor_2W_0
+timestamp 1618898111
+transform 1 0 34 0 1 111
+box -34 -111 51 89
+use xor_2W  xor_2W_1
+timestamp 1618898111
+transform 1 0 33 0 1 -100
+box -34 -111 51 89
+use xor_2W  xor_2W_2
+timestamp 1618898111
+transform 1 0 33 0 1 -309
+box -34 -111 51 89
+<< end >>

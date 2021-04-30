@@ -1,0 +1,24 @@
+magic
+tech scmos
+timestamp 1618920172
+use pgchain1  pgchain1_0
+timestamp 1618899966
+transform 1 0 138 0 1 9
+box -138 -9 214 211
+use pgchain1  pgchain1_1
+timestamp 1618899966
+transform 1 0 138 0 1 -225
+box -138 -9 214 211
+use pgchain2  pgchain2_0
+timestamp 1618912274
+transform 1 0 125 0 1 -399
+box -106 -13 199 151
+use pgchain1  pgchain1_2
+timestamp 1618899966
+transform 1 0 139 0 1 -632
+box -138 -9 214 211
+use pgchain3  pgchain3_0
+timestamp 1618919255
+transform 1 0 129 0 1 -987
+box -149 -15 224 335
+<< end >>
